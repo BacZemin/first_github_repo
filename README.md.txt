@@ -8,7 +8,8 @@
 
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.
-Commit directly to the master branch </p>
+Commit directly to the master branch
+one small change! and lets try pull </p>
 
 </body>
 </html>
